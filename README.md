@@ -31,7 +31,7 @@ Before you begin, ensure you have the following software installed:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/mosnad-user-management.git
+    git clone https://github.com/A7pro-fuad/mosnad-user-management.git
     cd mosnad-user-management
     ```
 
